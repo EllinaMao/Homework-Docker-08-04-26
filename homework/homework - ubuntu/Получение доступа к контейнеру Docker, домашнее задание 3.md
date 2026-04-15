@@ -72,4 +72,6 @@ nano. И немного текста
 
 
 все три вызванные команды
+
 <img width="490" height="168" alt="15  Все три вызванные команды" src="https://github.com/user-attachments/assets/2c145ea8-c423-41f8-9413-8258021d72ac" />
+
